@@ -1,2 +1,2 @@
-export const appName = '旅行足迹'
-export const appDescription = 'We Will Be Reunited'
+export const appName = '跳跳糖的个人相册'
+export const appDescription = '生活记录'
